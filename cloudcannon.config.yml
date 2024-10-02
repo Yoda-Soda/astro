@@ -1,0 +1,10 @@
+source: /benchmark/packages/timer/
+collections_config: {}
+paths:
+  static: public
+  uploads: public/uploads
+timezone: Pacific/Auckland
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
